@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/harsh-dixit-g-3006-a1221-r1412g1201i">
+<a href="https://www.linkedin.com/in/harsh-dixit-g-3006-a1221-r1412g1201i/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:harshdixit3006@gmail.com">
