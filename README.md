@@ -1,12 +1,12 @@
 
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AD796F,100:85465D&height=190&section=header&text=Harsh%20Dixit&fontSize=75&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:536DFE,50:7952B8,100:303F9F&height=180&section=header&text=Harsh%20Dixit&fontSize=75&fontColor=ffffff&fontAlignY=50&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=536DFE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Problem+Solver;CSE+Undergraduate;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8294FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Problem+Solver;CSE+Undergraduate;Building+Ideas+Into+Reality" />
 
-<br/>
+<br/><br/>
 
 <a href="YOUR_LINKEDIN_PROFILE_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,7 +27,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-<li>🔭 I'm currently working on <b>Full Stack Web Development</b></li>
+<li>🔭 I'm currently working on <b>Full Stack Web Development</b>.</li>
 <li>🌱 I'm continuously learning new technologies and improving my development skills.</li>
 <li>🧑‍🤝‍🧑 I'm looking forward to collaborating on <b>Open Source Projects</b>.</li>
 <li>🎯 Goal: Master <b>Data Structures & Algorithms</b>.</li>
@@ -44,32 +44,17 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h4>Languages</h4>
-
+<h4>Programming Languages</h4>
 <img src="https://skillicons.dev/icons?i=java,js,python,c&theme=dark" />
 
 <h4>Frontend</h4>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 <h4>Backend & Database</h4>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
 
 <h4>Tools & Platforms</h4>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark" />
-
-<br/>
-
-<b>Other Technologies</b>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST_APIs-20232A?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-20232A?style=flat-square&logo=jsonwebtokens" />
-<img src="https://img.shields.io/badge/MVC-20232A?style=flat-square" />
-<img src="https://img.shields.io/badge/Razorpay-20232A?style=flat-square&logo=razorpay" />
 
 </td>
 </tr>
@@ -77,14 +62,14 @@
 
 <br/>
 
-<!-- PROJECT NAMES ONLY -->
+<!-- PROJECTS -->
 <div align="center">
 
 <h2>🚀 Projects</h2>
 
-<img src="https://img.shields.io/badge/Chatter-Real--Time%20Messaging-536DFE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Super%20Pass-Event%20Management-85465D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bharat%20Netra-Cyber%20Intelligence-AD796F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CHATTER-Real--Time%20Messaging-536DFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SUPER%20PASS-Event%20Management-7952B8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BHARAT%20NETRA-Cyber%20Intelligence-303F9F?style=for-the-badge" />
 
 </div>
 
@@ -93,8 +78,8 @@
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85465D,100:AD796F&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=8294FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building." />
 
-**✨ Building. Learning. Innovating.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:303F9F,50:7952B8,100:536DFE&height=90&section=footer&animation=twinkling" />
 
 </div>
