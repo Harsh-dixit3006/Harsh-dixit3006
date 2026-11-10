@@ -1,163 +1,100 @@
 
+<!-- ANIMATED HEADER -->
 <div align="center">
 
-# Harsh Dixit
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AD796F,100:85465D&height=190&section=header&text=Harsh%20Dixit&fontSize=75&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
-### Full Stack Developer | CSE Undergraduate
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=536DFE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Problem+Solver;CSE+Undergraduate;Always+Learning+Something+New" />
 
-Building web applications, solving problems, and exploring new technologies.
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshdixit3006@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ABOUT ME + TECH STACK -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 Pursuing B.Tech in Computer Science at **GLA University, Mathura**.
-- 💻 Interested in **Full Stack Web Development** and Software Engineering.
-- 🌱 Currently exploring **Next.js, Backend Development and System Design**.
-- 🧠 Solved **350+ DSA problems** across multiple coding platforms.
-- 🏆 Participated in **5+ hackathons**, securing Top 5 positions in 3 competitions.
-- 🔐 Participated in **4+ CTF competitions**, securing Top 10 positions in 3 competitions.
-- 🤝 Senior Associate Member at **Google Developer Groups - GLAU**.
-- ⚡ I enjoy building practical projects and solving challenging problems.
+<h2>👨‍💻 About Me</h2>
 
----
+<ul>
+<li>🔭 I'm currently working on <b>Full Stack Web Development</b></li>
+<li>🌱 I'm continuously learning new technologies and improving my development skills.</li>
+<li>🧑‍🤝‍🧑 I'm looking forward to collaborating on <b>Open Source Projects</b>.</li>
+<li>🎯 Goal: Master <b>Data Structures & Algorithms</b>.</li>
+<li>⚡ Solved <b>350+ DSA problems</b> across multiple coding platforms.</li>
+<li>🏆 Participated in <b>5+ Hackathons</b>, securing Top 5 positions in 3.</li>
+<li>🔐 Participated in <b>4+ CTF competitions</b>, securing Top 10 positions in 3.</li>
+<li>🚀 Senior Associate Member at <b>GDG GLAU</b>.</li>
+<li>📫 Reach me at: <b>harshdixit3006@gmail.com</b></li>
+</ul>
 
-## 🛠️ Technical Skills
+</td>
 
+<td width="50%" valign="top">
+
+<h2>🛠️ Tech Stack</h2>
+
+<h4>Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c&theme=dark" />
+
+<h4>Frontend</h4>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+
+<h4>Backend & Database</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+
+<h4>Tools & Platforms</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark" />
+
+<br/>
+
+<b>Other Technologies</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-20232A?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-20232A?style=flat-square&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/MVC-20232A?style=flat-square" />
+<img src="https://img.shields.io/badge/Razorpay-20232A?style=flat-square&logo=razorpay" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT NAMES ONLY -->
 <div align="center">
 
-### Programming Languages
+<h2>🚀 Projects</h2>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" />
+<img src="https://img.shields.io/badge/Chatter-Real--Time%20Messaging-536DFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Super%20Pass-Event%20Management-85465D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bharat%20Netra-Cyber%20Intelligence-AD796F?style=for-the-badge" />
 
 </div>
 
-### Core Computer Science
+<br/>
 
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOPS)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
-- REST APIs
-- Authentication & JWT
-- MVC Architecture
-
----
-
-## 🚀 Featured Projects
-
-### 1. Chatter
-**Next.js | Ably | MongoDB | Tailwind CSS | Vercel**
-
-A real-time messaging application designed to provide seamless communication.
-
-- Enables users to exchange messages instantly.
-- Uses Ably for real-time communication.
-- MongoDB for data storage.
-- Built with Next.js and Tailwind CSS.
-
-**Duration:** January 2026 – February 2026
-
----
-
-### 2. Super Pass
-**MERN Stack | Razorpay | Cloudinary | Vercel | Render**
-
-An all-in-one event hosting and ticket management application.
-
-- Streamlines event planning and promotion.
-- Supports event registration and ticket management.
-- Integrates Razorpay for payment processing.
-- Uses Cloudinary for media management.
-
-**Duration:** October 2025 – January 2026
-
----
-
-### 3. Bharat Netra
-**MERN Stack | External APIs | Vercel | Render**
-
-A cyber intelligence platform designed to support investigative workflows through centralized data management and intelligence tools.
-
-- Integrates external APIs for intelligence gathering.
-- Provides a centralized workspace for investigation.
-- Built using the MERN stack.
-- Designed to improve investigation and data coordination.
-
-**Duration:** July 2025 – November 2025
-
----
-
-## 💼 Internship & Training Experience
-
-### Walmart – Advanced Software Engineering Job Simulation
-**March 2026**
-
-- Gained hands-on experience with real-world software engineering tasks.
-- Worked on advanced data structures.
-- Applied efficient algorithms to solve complex problems.
-
-### Codec Technologies India
-**June 2025 – July 2025**
-
-- Completed an immersive technical training program.
-- Gained industry-level knowledge and practical technical skills.
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Details |
-|---|---|---|
-| B.Tech – Computer Science | GLA University, Mathura | CGPA: 8.52 (2028) |
-| Intermediate | Prasad International School | 73% (2023) |
-| High School | Prasad International School | 81.5% (2021) |
-
----
-
-## 🏆 Achievements & Activities
-
-- Solved **350+ Data Structures and Algorithms problems**.
-- Participated in **5+ hackathons**, securing Top 5 positions in 3 competitions.
-- Participated in **4+ Cryptographic Challenges (CTF)**, securing Top 10 positions in 3 competitions.
-- Served as an **Associate Member of CodeBusters Club**.
-- Served as a **Senior Associate Member of Google Developers Groups – GLAU**.
-- Contributed to technical and collaborative initiatives.
-
----
-
-## 📫 Contact Me
-
-- **Email:** harshdixit3006@gmail.com
-- **Location:** Varanasi, India
-
----
-
+<!-- FOOTER -->
 <div align="center">
 
-### 💡 "Building, Learning, and Growing Every Day."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85465D,100:AD796F&height=100&section=footer" />
+
+**✨ Building. Learning. Innovating.**
 
 </div>
